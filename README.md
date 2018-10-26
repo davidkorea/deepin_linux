@@ -49,4 +49,6 @@ xerox@xerox-PC:~$ sudo apt-get install fcitx-hangul
 xerox@xerox-PC:~$ 
 
 ```
-2. ![](https://i.loli.net/2018/10/26/5bd2ec2ab3d19.png)
+2. Search hangul and config
+
+![](https://i.loli.net/2018/10/26/5bd2ec2ab3d19.png)
