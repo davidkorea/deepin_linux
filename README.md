@@ -1,5 +1,9 @@
 # deepin_linux
 
+# Issue 2 - Disk Read Only
+
+![](https://i.loli.net/2018/10/26/5bd2ed3ee8c66.png)
+
 # Issue 1 - Install 한글
 
 1. ```sudo apt-get install fcitx-hangul```
