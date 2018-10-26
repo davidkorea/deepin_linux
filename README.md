@@ -2,7 +2,8 @@
 
 # Issue 1 - Install 한글
 
-- ```sudo apt-get install fcitx-hangul```
+- 1. ```sudo apt-get install fcitx-hangul```
+
 ```
 xerox@xerox-PC:~$ sudo apt-get install fcitx-hangul
 
@@ -48,3 +49,5 @@ xerox@xerox-PC:~$ sudo apt-get install fcitx-hangul
 xerox@xerox-PC:~$ 
 
 ```
+- 2. 
+![](https://i.loli.net/2018/10/26/5bd2ec2ab3d19.png)](https://i.loli.net/2018/10/26/5bd2ec2ab3d19.png
